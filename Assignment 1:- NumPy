@@ -1,0 +1,36 @@
+Question 1:- 
+
+q1 = np.zeros(10)
+q1[4] = 1
+q1
+
+Question 2:- 
+
+q2 = np.arange(10,50)
+q2
+
+Questio 3:- 
+
+x = p.arange(0,9).reshape(3,3)
+x
+
+Questio 4:-
+
+q4 = np.array([1,2,0,0,4,0])
+y = np.nonzero(q4)
+y
+
+
+Question 5:-
+
+q5 = np.random.random((10,10))
+qmin = q4.min()
+qmax = q4.max()
+qmin,qmax
+
+
+Question 6:-
+
+q6 = np.random.random((30,30))
+qmean = q6.mean()
+qmean
